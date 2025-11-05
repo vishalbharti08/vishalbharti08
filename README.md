@@ -20,6 +20,19 @@ Focused on backend systems, Android development, and AI tooling for developer pr
 
 ---
 
+### 🌐 Featured Live Project
+
+**[Kjar Eyewear — E-Commerce Website](https://kjar.in)**  
+Full-stack web platform for an independent eyewear brand. Built collaboratively with a small team to handle product catalog, cart, and secure checkout.
+
+🛠 **Stack:** Next.js • Node.js • Firebase • TailwindCSS • Vercel  
+🚀 **Role:** Frontend + Deployment Lead  
+– Implemented dynamic product routing and responsive design  
+– Integrated Firebase for real-time data and authentication  
+– Managed production build and CI/CD via Vercel  
+– Optimized load times and SEO for commercial deployment
+
+
 ### 🧠 Projects
 - **Vendor & Finance Portal (React + Node + MySQL + JWT)**  
   Role-based vendor management platform with GST validation and secure JWT auth.
