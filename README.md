@@ -1,35 +1,46 @@
-# Hi, I’m Vishal 👋
+# Hi, I'm Vishal 👋
 
-**Computer Science @ Toronto Metropolitan University (’27)** — building data-driven and product-focused software.  
-Interests: backend systems, Android, and AI tooling for developer productivity.
+**Computer Science @ Toronto Metropolitan University ('27)**  
+Focused on backend systems, Android development, and AI tooling for developer productivity.
 
-### 🔭 What I’m working on
-- **Vendor & Finance Portal** — Role-based web app for vendor onboarding and GST-relevant data. React + Node.js + MySQL + JWT. Preparing PO-linked invoice ingestion and server-side GST validation to replace email workflows.
-- **Prompt Studio (Android)** — Kotlin + OpenAI API playground with tunable parameters (temperature, top-p, max tokens) and structured JSON output viewer.
+---
 
 ### 💼 Experience
-- **CoolBoots Media — Project Intern (2024)**  
-  Android “ChatGPT Playground” to accelerate prompt iteration; reduced median API latency ~30%.
-- **EY — Data Engineering Intern (2023)**  
-  Automated Digi-GST ingestion pipelines; removed ~25% manual steps.
-- **Times Internet — QA (2022)**  
-  Led regression passes for MensXP; surfaced issues tied to notable feature-adoption gains.
-- **MX Player — Research Assistant (2022)**  
-  Crash triage + regression analysis; helped cut crash frequency ~15%.
+- **CoolBoots Media Private Limited — Project Intern (Jul 2024 – Aug 2024)**  
+  Built an internal Android ChatGPT Playground using Kotlin + OpenAI API; reduced latency 30 % and improved iteration efficiency 15 %.
+
+- **EY (Ernst & Young) — Data Engineering Intern (Mar 2023 – May 2023)**  
+  Automated Digi GST ingestion pipelines; eliminated ≈ 25 % manual steps and improved throughput across clients.
+
+- **Times Internet — Data Engineering Intern (Sep 2022 – Dec 2022)**  
+  Performed QA for MensXP mobile; identified major UX issues and boosted feature adoption 20 %.
+
+- **MX Player — Research Assistant (Feb 2022 – Aug 2022)**  
+  Led crash triage; reduced crash rate 15 % and collaborated on UX enhancements using analytics.
+
+---
+
+### 🧠 Projects
+- **Vendor & Finance Portal (React + Node + MySQL + JWT)**  
+  Role-based vendor management platform with GST validation and secure JWT auth.
+
+- **Prompt Studio (Android + Kotlin + OpenAI API)**  
+  AI-powered Android app for dynamic parameter tuning and structured prompt visualization.
+
+- **E-Commerce App (Flutter + Firebase)**  
+  Built an end-to-end shopping app with auth, cart, and checkout features.
+
+- **E-Commerce Website (Next.js + Firebase)**  
+  Led 3-member team; implemented real-time DB sync and improved load time consistency.
+
+---
 
 ### 🧰 Tech Stack
-**Languages:** Java, Python, JavaScript/TypeScript, SQL, Kotlin, Dart  
-**Frameworks:** React, Next.js, Node.js, Flutter, Spring Boot  
-**Tools/Platforms:** Android Studio, Firebase, AWS, Git, Jupyter, Agile
+**Languages:** Java | Python | JavaScript | SQL | Kotlin | Dart  
+**Frameworks:** React | Next.js | Node.js | Flutter | Spring Boot  
+**Tools:** Android Studio | Firebase | AWS | Git | Jupyter | Agile Development
 
-### 📌 Featured Repositories
-- **vendor-finance-portal** — React/Node/MySQL/JWT implementation of the vendor onboarding platform.  
-  _Demo, docs, and migration notes included._  
-- **prompt-studio-android** — Kotlin Android app to test prompts and parameters with the OpenAI API.  
-- **ecommerce-flutter** — Flutter + Firebase e-commerce demo (auth, cart, checkout).  
-- **ecommerce-next** — Next.js + Firebase site with real-time DB and secure login.
+---
 
-> Pin these four repos and add short READMEs with screenshots, setup, and a one-minute demo GIF where possible.
-
-### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/vishalbharti08) • [GitHub](https://github.com/vishalbharti08) • vishalbharti2027@gmail.com
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/vishalbharti08)  |  [GitHub](https://github.com/vishalbharti08)  |  📧 vishalbharti2027@gmail.com
